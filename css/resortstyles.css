@@ -1,5 +1,5 @@
 h1 {
-  color: #D2691E;
+  color: #0000FF;
   text-align: left;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  color: 	chocolate;
+  color: 	purple;
   text-align: left;
   font-style: italic;
   font-size: 30px;
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-  color: 	#D3D3D3;
+  color: 	#0000FF;
   text-align: left;
   font-style: italic;
   font-size: 25px;
@@ -48,7 +48,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: DarkGoldenRod;
+  background-color: DarkCyan;
 }
 
 li {
